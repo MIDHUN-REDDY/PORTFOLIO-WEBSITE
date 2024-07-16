@@ -1,12 +1,12 @@
 # PORTFOLIO-WEBSITE
 # TABLE OF CONTENT
-  + [Overview]
-  + [Key Features]
-  + [Technologies]
-  + [Purpose]
-  + [User Experience]
-  + [Contribution and Feedback]
-  + [License]
+  + [Overview](https://github.com/MIDHUN-REDDY/PORTFOLIO-WEBSITE/blob/main/README.md#overview)
+  + [Key Features](https://github.com/MIDHUN-REDDY/PORTFOLIO-WEBSITE/blob/main/README.md#key-features)
+  + [Technologies](https://github.com/MIDHUN-REDDY/PORTFOLIO-WEBSITE/blob/main/README.md#technologies)
+  + [Purpose](https://github.com/MIDHUN-REDDY/PORTFOLIO-WEBSITE/blob/main/README.md#purpose)
+  + [User Experience](https://github.com/MIDHUN-REDDY/PORTFOLIO-WEBSITE/blob/main/README.md#user-experience)
+  + [Contribution and Feedback](https://github.com/MIDHUN-REDDY/PORTFOLIO-WEBSITE/blob/main/README.md#contributions-and-feedback)
+  + [License](https://github.com/MIDHUN-REDDY/PORTFOLIO-WEBSITE/blob/main/README.md#license)
 
 # Overview
 
